@@ -1,0 +1,90 @@
+style.css
+h1{
+    justify-content: center;
+    font-weight:"phosphate"; 
+}
+header{
+    background-color: blue;
+    border-radius: 20px;
+    height:70px;
+    width:1400px;
+}
+body{
+    background-color: white;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+}
+
+.firstinput{
+    height:50px;
+    width:400px;
+    color:red;
+    margin-left:1000px;
+
+}
+.secondinput{
+
+    height:50px;
+    width:400px;
+    margin-left:1000px;
+}
+.thirdinput{
+    height:250px;
+    width:400px;
+    background-color: lightblue;
+    margin-left:1000px;
+    text-align: top;
+}
+button{
+    height: 100px;
+    width:400px;
+    margin-left:1000px;
+    background-color:lightblue;
+}
+h2{
+    font-weight:"phosphate";
+}
+.profil{
+    border:solid 1px blue;
+    border-radius:25px 25px 25px 25px;
+    display:flex;
+    margin-left:1300px;
+    margin-top:-100px;
+    height:100px;
+    width:100px;  
+}
+.logo{
+   display: flex;
+    margin-right: 1000px;
+    height: 70px;
+    width:100px;
+    border:solid 1px blue;
+    border-radius: 45px 25px 25px 25px;
+}
+element.style{
+    border-radius: 25px;
+}
+footer{
+    height: 70px;
+    width:1400px;
+    background-color: black;
+    border-radius: 20px;
+}
+.fa-linkedin{
+    margin-left:30px;
+    margin-top:20px;
+    color:blue;
+    height:150px;
+    width:200px;
+}
+.fa-instagram{
+    color:green;
+    margin-left:500px;
+    height:600px;
+}
+.fa-facebook{
+    color: blue;
+    margin-left:610px;
+}
